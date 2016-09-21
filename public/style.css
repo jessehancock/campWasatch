@@ -185,10 +185,11 @@ bold {
   border: none;
   color: white;
   padding: 15px 32px;
+  margin-bottom: 45px;
   display: inline-block;
   outline: none;
   border: none;
-  border-radius: 16%/50%;
+  border-radius: 6%/50%;
   cursor: pointer;
   transition: all 0.3s ease 0s; }
 

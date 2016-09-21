@@ -3,8 +3,7 @@ angular.module('campApp', ['ui.router'])
 	$urlRouterProvider.otherwise('/');
 
 	$stateProvider
-	.state
-	('home', {
+	.state('home', {
     url: '/',
     templateUrl: './public/views/home.html'
    })
